@@ -1,6 +1,6 @@
-# Kast: Real-Time AML & Wallet Drain Surveillance 🛡️
+# Real-Time AML & Wallet Drain Surveillance 🛡️
 
-[![View Dashboard](https://img.shields.io/badge/View_Dashboard-Tableau_Public-blue?style=for-the-badge&logo=tableau)]([Insert your Tableau Public Link Here])
+[![View Dashboard](https://img.shields.io/badge/View_Dashboard-Tableau_Public-blue?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/milena.obilinovic8793/viz/AML_Wallet_Drain_Surveillance/Dashboard1)
 
 ## 📌 Project Overview
 This project simulates a real-time risk operations environment for a financial technology platform. Utilizing the PaySim dataset, this dashboard is designed for executive oversight and analyst triage of high-volume money laundering (AML) and wallet drain attempts.
